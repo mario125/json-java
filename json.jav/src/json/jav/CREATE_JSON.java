@@ -43,7 +43,7 @@ public class CREATE_JSON {
 "      ],\n" +
 "      \"ID\": [\n" +
 "        {\n" +
-"          \"IdentifierContent\": \"F001-1\"\n" +
+"          \"IdentifierContent\":\"F001-1\"\n" +
 "        }\n" +
 "      ],\n" +
 "      \"IssueDate\": [\n" +
